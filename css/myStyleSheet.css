@@ -1,0 +1,47 @@
+body {
+	background-color: #1D1C1C;
+}
+
+.logo{
+    float: right;
+    padding: 5px;
+}
+
+h1, h2, h3{
+    color: #FFF;
+}
+
+.content h1, h2, h3{
+       color: #080606;    
+}
+
+
+.topCon {
+    background-color: #080606;
+    
+}
+
+.mainCon{
+	background-color: #080606;
+	border: 5px solid #5C5959;
+	border-radius: 25px;
+	box-shadow: -2px 0px 20px 8px #5C5959;
+	min-height: 1000px;
+}
+
+.masthead{
+	padding: 5px;
+}
+
+.content{
+    background-color: #FFF;
+    min-height: 800px;
+	padding: 10px;
+    border: 2px solid;
+    border-radius: 20px
+}
+
+.footer {   
+    padding: 5px;
+}
+
